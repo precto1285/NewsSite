@@ -1,3 +1,6 @@
+header{
+    opacity: 0.8;
+}
 body{
     padding-top:30px;
     padding-left:12px;
@@ -7,6 +10,7 @@ body{
     color:white;
 }
 footer{
+    opacity: 0.8;
 clear:both;
 margin-top:53px;
 align-content: center;
@@ -54,7 +58,8 @@ height:200px;
     width:600px;
 }
 .collapsible-header{
-    background-color:tan;
+    background-image:url(../images/sand.jpg);
+    background-size:100%;
 }
 
 #classCard1{
