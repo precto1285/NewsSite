@@ -5,20 +5,11 @@ body{
     background-image:url(../images/LaJolla.jpg);
     background-size:100%;
 }
-header{
-    
-}
-sidebar{
-    
-}
-main{
 
-
-}
 footer{
 margin-top:53px;
 align-content: center;
-background-color:rgb(83, 83, 161);
+background-color:rgb(30, 184, 176);
 color:white;
 border:solid;
 padding-left:823px;
