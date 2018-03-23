@@ -14,7 +14,7 @@ body{
 }
 main{
     overflow:auto;
-    height:550px;
+    height:456px;;
     margin-left:200px;
     margin-right:200px;
     text-align:center;
@@ -27,8 +27,9 @@ align-content: center;
 background-color:rgb(30, 184, 176);
 color:white;
 border:solid;
+padding-top: 30px;
 padding-left:823px;
-height:200px;
+height:150px;
 
 }
 title{
@@ -38,6 +39,7 @@ title{
 
 }
 #contact{
+    color: white;   
     margin-top: 25px;
     text-align:center;
     margin-bottom: 5px;
@@ -49,9 +51,13 @@ title{
 }
 .z-depth-3{
     border-radius:15px;
+    margin-right:35px;
+    height: auto;
 }
 #contactBody{
     background-color:white;
+    color: black;
+    height: 500px;
 }  
 #contact{
     background-color:rgb(30, 184, 176);
@@ -68,7 +74,7 @@ title{
     color:white;
 }
 .brand-logo{
-    margin-left: 823px;
+    margin-left: 193px;
     
 }
 .liSt{
@@ -90,7 +96,7 @@ title{
     border-radius:15px;
 }
 #classCard1{
-    margin-left:10px;
+    margin-left:216px;
     float:left;
     height:403px;
     width:363px;
@@ -118,8 +124,4 @@ iframe{
 }
 .responsive-img{
     background-color:black;
-}
-.cNt{
-    margin-top:15px;
-    color: white;
 }

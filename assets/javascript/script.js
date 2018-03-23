@@ -24,3 +24,6 @@ $("#carlsbadBtn").on("dblclick", function(event){
     console.log("carslbad");
 });
 
+
+$('#textarea1').val('Message');
+M.textareaAutoResize($('#textarea1'));
