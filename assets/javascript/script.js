@@ -23,3 +23,5 @@ $("#fashionvalleyBtn").on("dblclick", function(event){
 $("#carlsbadBtn").on("dblclick", function(event){
     console.log("carslbad");
 });
+
+
