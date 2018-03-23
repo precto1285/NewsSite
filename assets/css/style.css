@@ -1,5 +1,7 @@
 header{
     opacity: 0.8;
+
+    background-color:aqua;
 }
 body{
     padding-top:30px;
@@ -58,8 +60,10 @@ height:200px;
     width:600px;
 }
 .collapsible-header{
-    background-image:url(../images/sand.jpg);
-    background-size:100%;
+    background-color:rgb(26, 103, 122);
+    opacity:0.5;
+    /* background-image:url(../images/sand.jpg); */
+    /* background-size:100%; */
 }
 
 #classCard1{
