@@ -24,4 +24,3 @@ $("#carlsbadBtn").on("dblclick", function(event){
     console.log("carslbad");
 });
 
-
