@@ -4,6 +4,7 @@ body{
     padding-right:12px;
     background-image:url(../images/LaJolla.jpg);
     background-size:100%;
+    color:white;
 }
 footer{
 clear:both;
@@ -42,6 +43,7 @@ height:200px;
 }
 .brand-logo{
     margin-left: 823px;
+    
 }
 .liSt{
     margin-right:7px;
@@ -50,6 +52,9 @@ height:200px;
 .row{
     height:1200px;
     width:600px;
+}
+.collapsible-header{
+    background-color:tan;
 }
 
 #classCard1{
