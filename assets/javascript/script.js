@@ -25,14 +25,15 @@ $("#carlsbadBtn").on("dblclick", function(event){
 });
 
 
-$('#textarea1').val('Message');
-M.textareaAutoResize($('#textarea1'));
+// $('#textarea1').val('Message');
+// M.textareaAutoResize($('#textarea1'));
 
-$(document).ready(function(){
-    $('.materialboxed').materialbox();
-  });
+// $(document).ready(function(){
+//     $('.materialboxed').materialbox();
+//   });
 
   $(document).ready(function(){
+    $('.materialboxed').materialbox();
     $('.slider').slider();
   });
 
