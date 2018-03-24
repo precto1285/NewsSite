@@ -21,11 +21,11 @@ body{
 }
 main{
     overflow:auto;
-    height:456px;;
+    height:650px;
     margin-left:200px;
     margin-right:200px; 
     text-align:center;
-    flex: 1 0 auto;
+    margin-bottom:15px;
 }
 footer{
 opacity: 0.8;
@@ -134,3 +134,4 @@ iframe{
 .responsive-img{
     background-color:black;
 }
+
